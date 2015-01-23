@@ -48,7 +48,6 @@ public void drawBranches(int x,int y, double branchLength, double angle)
 		drawBranches(endX1, endY1, branchLength - 1, angle+Math.PI/4);
 		drawBranches(endX2, endY2, branchLength - 1, angle-Math.PI/6);
 	}
-
 } 
 
 
